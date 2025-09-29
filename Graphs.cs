@@ -169,7 +169,7 @@ namespace AALab_2
         public void RandomGraph(int n, double p)
         {
             Random r = new Random();
-            for (int i = 0; i < n - 1; i++)
+            for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < i; j++)
                 {
@@ -203,7 +203,7 @@ namespace AALab_2
         public void RandomGraph(int n, double p, int a, int b)
         {
             Random r = new Random();
-            for (int i = 0; i < n - 1; i++)
+            for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < i; j++)
                 {
