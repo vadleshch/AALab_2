@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.Form1.resources
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.AssemblyInfo.cs
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AALab_2\AALab_2\bin\Debug\net8.0-windows\AALab_2.exe
+C:\Users\user\Desktop\AALab_2\AALab_2\bin\Debug\net8.0-windows\AALab_2.deps.json
+C:\Users\user\Desktop\AALab_2\AALab_2\bin\Debug\net8.0-windows\AALab_2.runtimeconfig.json
+C:\Users\user\Desktop\AALab_2\AALab_2\bin\Debug\net8.0-windows\AALab_2.dll
+C:\Users\user\Desktop\AALab_2\AALab_2\bin\Debug\net8.0-windows\AALab_2.pdb
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.dll
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\refint\AALab_2.dll
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.pdb
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\AALab_2.genruntimeconfig.cache
+C:\Users\user\Desktop\AALab_2\AALab_2\obj\Debug\net8.0-windows\ref\AALab_2.dll
